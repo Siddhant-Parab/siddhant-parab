@@ -1,4 +1,5 @@
-## Hi there 👋
+## Siddhant parab
+This is my first git repo
 
 <!--
 **Siddhant-Parab/siddhant-parab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
